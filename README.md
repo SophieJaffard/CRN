@@ -1,7 +1,7 @@
 Description
 --
 
-This depository contains the code for the article [A Mathematical Proof that Chemical Reaction Networks can be Supervised Learning Machines](link). 
+This depository contains the code for the article [Chemical Reaction Networks Learn Better than Spiking Neural Networks](https://arxiv.org/abs/2603.12060). 
 
 Usage
 --
